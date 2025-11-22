@@ -32,6 +32,8 @@ A multinational retail corporation is facing challenges in gaining comprehensive
 - Total Revenue by Segment.
 - Revenue YoY.
 
+<img width="947" height="505" alt="new sales dashboard" src="https://github.com/user-attachments/assets/b4df559b-f8a4-47b6-ad33-ce45e204669c" />
+
 ### Data Collection and Integration
 ---
 My tutor, Mr. Josh gave me the dataset for analysis. The sales dataset was extracted, transformed and loaded into the Power Query editor for comprehensive analysis.
